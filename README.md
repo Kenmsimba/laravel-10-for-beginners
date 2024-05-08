@@ -1,1 +1,1 @@
-# This is my first practice project on laravel
+# practice project
